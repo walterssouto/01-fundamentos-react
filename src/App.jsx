@@ -10,7 +10,7 @@ const posts = [
   {
     id: 1, 
     author: {
-      avatarUrl: 'github.com/walterssouto.png',
+      avatarUrl: 'https://www.github.com/walterssouto.png',
       name: 'Walters Souto',
       role: 'Desenvolvedor Web'
     },
@@ -36,7 +36,7 @@ const posts = [
       {type: 'link', content: 'jane.design/doctorcare' }
       
     ],
-    publishedAt: new Date('2022-07-20 15:30:00', 'dd/mm/YYY')
+    publishedAt: new Date('2022-05-03 15:30:00')
   }
 ]
 
