@@ -1,8 +1,8 @@
 {
-  "name": "01-fundamentos-reactjs-ts",
+  "name": "01-fundamentos-react",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://gitname.github.io/01-fundamentos-react",
+  "homepage": "https://walterssouto.github.io/01-fundamentos-react/",
   "type": "module",
   "scripts": {
     "dev": "vite",
